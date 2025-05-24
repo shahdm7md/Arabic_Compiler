@@ -22,7 +22,7 @@ This project is a basic compiler built with C# that supports Arabic syntax. It i
 - `Lexer.cs`: Tokenizer logic
 - `Parser.cs`: Syntax checker
 - `Token.cs`: Token model and types
-- `Form1.cs`: GUI (if implemented)
+- `Form1.cs`: GUI 
 - `Program.cs`: Entry point
 
 ## License
